@@ -54,6 +54,7 @@ Core Banking Department (Jun 2011 – oct 2015) - DOTIN CO, TEHRAN, IRAN
 -	Associates in Computer Software / Shamsipoor Technical College, Tehran, Iran
 1995-1998
 -	Diploma in Computer Software / Sanaaye Technical High School, Tehran, Iran
+
 |Major|Name|Location|Date|
 |---|---|---|---|
 |BS in Software Engineering|Azad University|Sari, Iran|1998-2001|
