@@ -50,11 +50,13 @@ Core Banking Department (Jun 2011 – oct 2015) - DOTIN CO, TEHRAN, IRAN
 
 ### Education
 2001-2006
--	BS in Software Engineering / Azad University, Sari, Iran
-1998-2001
+
 -	Associates in Computer Software / Shamsipoor Technical College, Tehran, Iran
 1995-1998
 -	Diploma in Computer Software / Sanaaye Technical High School, Tehran, Iran
+|Major|Name|Location|Date|
+|---|---|---|---|
+|BS in Software Engineering|Azad University|Sari, Iran|1998-2001|
 
 ### Training
 -	Building APIs with Swagger and the OAS – (LinkedInLearning) – November 2021
