@@ -49,15 +49,11 @@ Core Banking Department (Jun 2011 – oct 2015) - DOTIN CO, TEHRAN, IRAN
 -	Others: HTML, CSS, XML, JQuery, CodeIgniter, WordPress, Joomla, Drupal, Movable Type, Vbulletin, PhpMyAdmin, NodeJs, Jira, Confluence, MS Dynamics CRM, Git, Postman, SoapUI, Swagger, NodeJs, Markdown, MS Word, MS Excel, MS PowerPoint, MS Visio
 
 ### Education
-2001-2006
-
--	Associates in Computer Software / Shamsipoor Technical College, Tehran, Iran
-1995-1998
--	Diploma in Computer Software / Sanaaye Technical High School, Tehran, Iran
-
-|Major|Name|Location|Date|
-|---|---|---|---|
-|BS in Software Engineering|Azad University|Sari, Iran|1998-2001|
+||Major|Name|Location|Date|
+||---|---|---|---|
+|1|BS in Software Engineering|Azad University|Sari, Iran|2001-2006|
+|2|Associates in Computer Software|Shamsipoor Technical College|Tehran, Iran|1998-2001|
+|3|Diploma in Computer Software|Sanaaye Technical High School| Tehran, Iran|1995-1998|
 
 ### Training
 -	Building APIs with Swagger and the OAS – (LinkedInLearning) – November 2021
