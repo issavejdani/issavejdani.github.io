@@ -4,7 +4,7 @@
 **I have worked most of my career in the Iranian banking industry, dealing with development, deployment, documentation, manual testing, maintenance, consultant, and business analysis of financial and non-financial web services and web APIs. I have always been looking for a chance to help and support startups, entrepreneurs, and customers in managing their API requirements.**
 
 ### Work Experience
-•	API Technical Writer & SRE (4 years)
+#### - API Technical Writer & SRE (4 years)
 API Gateway Department (sep 2017 – Present) - DOTIN CO, TEHRAN, IRAN
 -	Designed a document template for APIs
 -	Documented internal and external APIs
