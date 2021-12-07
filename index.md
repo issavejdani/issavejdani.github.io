@@ -57,7 +57,7 @@ Core Banking Department (Jun 2011 – oct 2015) - DOTIN CO, TEHRAN, IRAN
 |3|Diploma in Computer Software|Sanaaye Technical High School| Tehran, Iran|1995-1998|
 
 ### Training
--	Building APIs with Swagger and the OAS – ([LinkedInLearning][1]) – November 2021
+-	Building APIs with Swagger and the OAS – ([LinkedInLearning][3]) – November 2021
 -	Technical Writing: Quick Start Guides – (LinkedInLearning) – November 2021
 -	Writing in plain English – (LinkedInLearning) – November 2021
 -	API documentation with JSON and XML – (LinkedinLearning) – October 2021
