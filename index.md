@@ -58,9 +58,9 @@ Core Banking Department (Jun 2011 – oct 2015) - DOTIN CO, TEHRAN, IRAN
 
 ### Training
 -	Building APIs with Swagger and the OAS – ([LinkedInLearning][3]) – November 2021
--	Technical Writing: Quick Start Guides – (LinkedInLearning) – November 2021
--	Writing in plain English – (LinkedInLearning) – November 2021
--	API documentation with JSON and XML – (LinkedinLearning) – October 2021
+-	Technical Writing: Quick Start Guides – ([LinkedInLearning][4]) – November 2021
+-	Writing in plain English – ([LinkedInLearning][5]) – November 2021
+-	API documentation with JSON and XML – ([LinkedinLearning][6]) – October 2021
 -	Data Visualization Using ELK stack (Dotin Co.) - December 2020
 -	Java SE 8 Programming & Developing Applications for Java EE 6 Platform (Sematec)– March 2019
 -	Professional Programming/Clean Code (Dotin Co.) – October 2014
@@ -84,4 +84,7 @@ Core Banking Department (Jun 2011 – oct 2015) - DOTIN CO, TEHRAN, IRAN
 [1]:https://twitter.com/issavejdani
 [2]:https://linkedin.com/in/issavejdani
 [3]:https://www.linkedin.com/learning/certificates/1be0df4e92e7749a309a57c3f77c8daef29f5755b195b9265fae3ce9e39e6ed5?trk=share_certificate
+[4]:https://www.linkedin.com/learning/certificates/794df2636e7340596de67b2475b24852cc6d08d52793dafbd3e26987889ec5fe?trk=share_certificate
+[5]:https://www.linkedin.com/learning/certificates/43ba177a879b3a333a19b85933a2dff941a1ff6607be9f818f2efd80e062a613?trk=share_certificate
+[6]:https://www.linkedin.com/learning/certificates/19c3fab91ef5c023d52ccb94b9563c10142e5aae91a8e6442a556c9e4b84b640?trk=share_certificate
 
