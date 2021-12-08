@@ -76,7 +76,7 @@ Core Banking Department (Jun 2011 – oct 2015) - DOTIN CO, TEHRAN, IRAN
 
 |  |  |
 | --- | --- |
-| email | issavejdani@gmail.com |
+| email | mailto:issavejdani@gmail.com |
 | linkedin | [https://linkedin.com/in/issavejdani][2] |
 |twitter|[https://twitter.com/issavejdani][1]|
 |PhoneNumber|+98-912-288-40-29|
