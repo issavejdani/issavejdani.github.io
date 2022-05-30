@@ -69,7 +69,7 @@ Core Banking Department (Jun 2011 – oct 2015) - DOTIN CO, TEHRAN, IRAN
 |3|Diploma in Computer Software|Sanaaye Technical High School| Tehran, Iran|1995-1998|
 
 ### Training
--   Git for teams – [LinkedInLearning](7)
+-   Git for teams – ([LinkedInLearning][7]) - May 2022 
 -	Building APIs with Swagger and the OAS – ([LinkedInLearning][3]) – November 2021
 -	Technical Writing: Quick Start Guides – ([LinkedInLearning][4]) – November 2021
 -	Writing in plain English – ([LinkedInLearning][5]) – November 2021
