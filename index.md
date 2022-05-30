@@ -1,8 +1,7 @@
 
 # Issa Vejdani 
 ### Technical Writer
-**I have worked most of my career in the banking industry, dealing with development, deployment, documentation, manual testing, maintenance, consultant, and integration of financial and non-financial web services and web APIs. I recently relocated to Yerevan, Armenia, and work here as a technical writer.
-**
+**I have worked most of my career in the banking industry, dealing with development, deployment, documentation, manual testing, maintenance, consultant, and integration of financial and non-financial web services and web APIs. I recently relocated to Yerevan, Armenia, and work here as a technical writer.**
 
 ### Work Experience
 #### •	 API Technical Writer & SRE (4 years)
