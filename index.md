@@ -80,7 +80,7 @@ Core Banking Department (Jun 2011 – oct 2015) - DOTIN CO, TEHRAN, IRAN
 -	ITIL Foundation V2.0 (MapnaBoiler Co.) – November 2009
 
 ### Languages
--	German - Since December 2020 (Currently B1)
+-	German - A2
 -	English - Iran Language Institute (1996 – 2001)
 -	Persian (Native)
 
