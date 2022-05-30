@@ -4,6 +4,18 @@
 **I have worked most of my career in the banking industry, dealing with development, deployment, documentation, manual testing, maintenance, consultant, and integration of financial and non-financial web services and web APIs. I recently relocated to Yerevan, Armenia, and work here as a technical writer.**
 
 ### Work Experience
+#### •	 Technical Writer
+DISQO CO, Yerevan, ARMENIA (feb 2022 – Present)
+- Created product documents on the confluence
+- Held weekly sync up meetings with product managers
+- Updated existing internal & customer-facing documents
+- Revised product README files on GitLab
+- Maintained documents on the company's website
+- Designed approval process documents & diagrams
+- Ensured documents are easy to read and easy to find
+- Helped engineering and product teams address their documentation needs
+
+
 #### •	 API Technical Writer & SRE (4 years)
 API Gateway Department (sep 2017 – Present) - DOTIN CO, TEHRAN, IRAN
 -	Designed a document template for APIs
