@@ -1,6 +1,6 @@
 
 # Issa Vejdani 
-### API Technical Writer & SRE
+### Technical Writer
 **I have worked most of my career in the Iranian banking industry, dealing with development, deployment, documentation, manual testing, maintenance, consultant, and business analysis of financial and non-financial web services and web APIs. I have always been looking for a chance to help and support startups, entrepreneurs, and customers in managing their API requirements.**
 
 ### Work Experience
