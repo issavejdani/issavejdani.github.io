@@ -5,7 +5,7 @@
 
 ### Work Experience
 #### Technical Writer
-DISQO CO, Yerevan, ARMENIA (feb 2022 – Present)
+DISQO CO, YEREVAN, ARMENIA (feb 2022 – Present)
 - Created product documents on the confluence
 - Held weekly sync up meetings with product managers
 - Updated existing internal & customer-facing documents
