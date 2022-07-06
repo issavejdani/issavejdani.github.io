@@ -4,7 +4,7 @@
 **I have worked most of my career in the banking industry, dealing with development, deployment, documentation, manual testing, maintenance, consultant, and integration of financial and non-financial web services and web APIs. I recently relocated to Yerevan, Armenia, and work here as a technical writer.**
 
 ### Work Experience
-#### •	 Technical Writer
+#### Technical Writer
 DISQO CO, Yerevan, ARMENIA (feb 2022 – Present)
 - Created product documents on the confluence
 - Held weekly sync up meetings with product managers
@@ -16,7 +16,7 @@ DISQO CO, Yerevan, ARMENIA (feb 2022 – Present)
 - Helped engineering and product teams address their documentation needs
 
 
-#### •	 API Technical Writer & SRE (4 years)
+#### API Technical Writer & SRE (4 years)
 API Gateway Department (sep 2017 – Present) - DOTIN CO, TEHRAN, IRAN
 -	Designed a document template for APIs
 -	Documented internal and external APIs
@@ -39,20 +39,20 @@ API Gateway Department (sep 2017 – Present) - DOTIN CO, TEHRAN, IRAN
 -	Arranged a UAT environment for end-users
 -	Worked in night shifts to perform post-production tests
 
-#### •	 QA Engineer (2 years)
+#### QA Engineer (2 years)
 QA/QC Department (oct 2015 – SEP 2017) - DOTIN CO, TEHRAN, IRAN
 -	Facilitated and coordinated integration test environment
 -	Cofounded “Fintechlab” as a sandbox for financial APIs
 -	Increased number of web service users by introducing “Fintechlab.ir” 
 -	Participated in 2 Fintech events as a Technical Mentor
-#### •	Java Developer (4 years)
+#### Java Developer (4 years)
 Core Banking Department (Jun 2011 – oct 2015) - DOTIN CO, TEHRAN, IRAN
 -	Coded SWIFT Module, both frontend, and backend (Java 8, Hibernate, Struts, HTML, JavaScript) 
 
-#### •	Freelance Web Developer (2001 – 2011)
+#### Freelance Web Developer (2001 – 2011)
 -	Web development using PHP, MySQL, WordPress, Joomla, Drupal &… 
 
-#### Technical Skills & Expertise
+### Technical Skills & Expertise
 -	Database: MySQL, MSSQL, Oracle, Redis
 -	Programming Languages: Java, PHP, Python, JavaScript
 -	Web & application Servers: IIS, Apache, Tomcat
