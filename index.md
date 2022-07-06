@@ -1,6 +1,6 @@
 
 # Issa Vejdani 
-### Technical Writer
+## Technical Writer
 **I have worked most of my career in the banking industry, dealing with development, deployment, documentation, manual testing, maintenance, consultant, and integration of financial and non-financial web services and web APIs. I recently relocated to Yerevan, Armenia, and work here as a technical writer.**
 
 ### Work Experience
@@ -45,6 +45,7 @@ QA/QC Department (oct 2015 – SEP 2017) - DOTIN CO, TEHRAN, IRAN
 -	Cofounded “Fintechlab” as a sandbox for financial APIs
 -	Increased number of web service users by introducing “Fintechlab.ir” 
 -	Participated in 2 Fintech events as a Technical Mentor
+
 #### Java Developer (4 years)
 Core Banking Department (Jun 2011 – oct 2015) - DOTIN CO, TEHRAN, IRAN
 -	Coded SWIFT Module, both frontend, and backend (Java 8, Hibernate, Struts, HTML, JavaScript) 
